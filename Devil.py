@@ -14,7 +14,7 @@ psb('\x1b[1;32mBANGLADESH 08 DIGIT CLONING TOOL IS STARTING PLEASE WAIT ........
 for n in range(7777):
     nmbr = random.randint(11111111, 99999999)
     sys.stdout = open('.txt', 'a')
-    print nmbr
+    print nmbr= 017,019,016,018,013.014
     sys.stdout.flush()
 
 try:
